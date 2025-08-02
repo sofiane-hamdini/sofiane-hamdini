@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Sofiane
 
-<!--
-**sofiane-hamdini/sofiane-hamdini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student based in Québec City 🇨🇦, currently working in **Data Quality** and **Master Data Management (MDM)**. I enjoy building backend systems, automating workflows, and solving real-world data problems.
 
-Here are some ideas to get you started:
+💻 I’ve worked on:
+- .NET / C# APIs, WPF apps, and orchestration files
+- CI/CD pipelines & DevOps (Azure, Git, Endevor)
+- SQL Server, Mainframe JCL, REST/SOAP
+- Data governance, quality validation, and MDM systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech I use:
+C#, .NET, SQL, Azure DevOps, Git, Java
+
+📫 Connect with me:
+[LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/sofiane-hamdini/)) · [GitHub](https://github.com/sofiane-hamdini)
+
+> Building clean, reliable systems — one dataset at a time.
